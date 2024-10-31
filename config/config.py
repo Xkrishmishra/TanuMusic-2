@@ -47,7 +47,7 @@ UPSTREAM_REPO = getenv(
     "https://github.com/itzAsuraa/TanuMusic",
 )
 
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "codespace-gory-tomb-4jqvpvgj65x5f7wqq")
 
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
